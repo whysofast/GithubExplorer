@@ -11,6 +11,7 @@ export const Header = styled.header`
     text-decoration: none;
     color: #a8a8b3;
     transition: color 0.2s;
+    font-size: 24px;
 
     &:hover {
       color: #667;
